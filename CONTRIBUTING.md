@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Neha Kumari](https://github.com/SimplyReal)
+
+- Place: Kolkata, West Bengal, India
+- Bio: BTech Student | Web Developer | Alpha LSA @ Microsoft
+- GitHub: [Neha Kumari](https://github.com/SimplyReal)
